@@ -34,7 +34,7 @@ These rewards are **soulbound** to your Minecraft account, making them an authen
 * **Play-to-Earn Mechanism**: Earn real crypto rewards by completing fun, skill-based quests.
 * **Seamless Blockchain Integration**: Smart contracts on the **Binance Smart Chain Testnet** automatically reward you with crypto tokens and in-game items.
 * **Custom AI-Generated Quests**: Every quest is tailored to your Minecraft skills, ensuring a fresh challenge every time.
-* **Soulbound Rewards**: Your rewards are unique to your Minecraft account, ensuring that your achievements are permanent and irreplaceable.
+* **Soulbound Rewards**: Your rewards are unique to your Minecraft account, ensuring that your achievements are permanent and irreplaceable
 
 ---
 
